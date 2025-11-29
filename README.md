@@ -171,9 +171,7 @@ import MarkerCluster from '@changey/react-leaflet-markercluster';
 3. **Performance Monitoring**: Core Web Vitals
 
 ### Deployment:
-1. **Docker Configuration**: Containerization
-2. **CI/CD Pipeline**: Automated testing and deployment
-3. **CDN Setup**: Static asset optimization
+https://geo-visualizer-app.vercel.app
 
 ## ⏱ Time Spent Breakdown
 
